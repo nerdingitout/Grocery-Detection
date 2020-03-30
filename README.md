@@ -3,5 +3,5 @@ Smart Shop is an android application powered by Watson Visual Recognition, Nodej
 
 Tools: Android studio, Nodejs, MongoDB, Watson Visual Recognition
 
-### Architecture Diagram
-![]()
+### Architecture Flow
+<img width="781" alt="Screen Shot 2020-03-30 at 6 55 27 PM" src="https://user-images.githubusercontent.com/15332386/77927169-0e702180-72b8-11ea-84f9-4ff53551a372.png">
